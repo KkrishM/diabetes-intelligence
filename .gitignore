@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+# Generated locally by the app.
+database/*.db
+database/*.db-shm
+database/*.db-wal
+models/*.pkl
+
+# Local tooling and environment files.
+.venv/
+venv/
+.env
+.vscode/
